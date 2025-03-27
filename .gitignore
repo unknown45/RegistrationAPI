@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RegistrationAPI.csproj.Backup.tmp
+/obj/Debug/net8.0/RegistrationAPI.AssemblyInfo.cs
+/obj/Debug/net8.0/RegistrationAPI.AssemblyInfoInputs.cache
